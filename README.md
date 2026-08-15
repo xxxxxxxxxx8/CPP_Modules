@@ -4,7 +4,7 @@ A comprehensive collection of C++ exercises developed as part of the 42 School c
 
 ## Repository Structure
 
-```
+``` 
 cpp_modules/
 ├── cpp00/          Module 00: Introduction to C++
 ├── cpp01/          Module 01: Memory and References
